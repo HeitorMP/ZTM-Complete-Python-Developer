@@ -6,8 +6,5 @@ My progress in the the course:
 </div>
 <div align="center">
 <img src= "https://i.imgur.com/b2Z1zbd.png" />
-</div>
-
-<div align="center">
 <img src= "https://i.imgur.com/Zr2eLYY.png" />
 </div>
