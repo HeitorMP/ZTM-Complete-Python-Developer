@@ -41,6 +41,8 @@ class Tom(Cat):
 cat_tom = Tom('Tom', 2)
 cat_sally = Sally('Sally', 1)
 cat_simon = Simon('Simon', 3)
+
+
 my_cats = [cat_tom, cat_sally, cat_simon]
 
 # 3 Instantiate the Pet class with all your cats use variable my_pets

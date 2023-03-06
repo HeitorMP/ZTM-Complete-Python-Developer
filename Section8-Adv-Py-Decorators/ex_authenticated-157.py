@@ -9,7 +9,8 @@ user1 = {
 def authenticated(fn):
     def wrap(*args, **kwargs):
         if args[0]['valid']:
-            fn(args, kwargs)
+            fn(args)
+
     return wrap
 
 
