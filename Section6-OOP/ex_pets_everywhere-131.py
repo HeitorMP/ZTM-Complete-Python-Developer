@@ -16,7 +16,7 @@ class Cat():
         self.name = name
         self.age = age
 
-    def walk(self):
+    def walk1(self):
         return f'{self.name} is just walking around'
 
 
